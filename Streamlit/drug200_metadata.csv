@@ -1,0 +1,2 @@
+age,sex,bp,cholesterol,Na_to_K,Drug
+integer,Female-Male,High-Low-Normal,High-Normal,integer,target
