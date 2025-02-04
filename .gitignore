@@ -1,0 +1,39 @@
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit secrets
+.secrets/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python distribution packages
+*.egg
+*.egg-info
+dist/
+build/
+
+# Streamlit specific
+*.db
+*.sqlite
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log and backup files
+*.log
+*.bak
